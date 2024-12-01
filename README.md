@@ -1,0 +1,1 @@
+# kurec-record-rule-template
